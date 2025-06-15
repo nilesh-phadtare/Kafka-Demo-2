@@ -1,2 +1,3 @@
 rootProject.name = 'Kafka-Demo-2'
 include 'Kafka-Basics'
+include 'Wikimedia-Connect'
